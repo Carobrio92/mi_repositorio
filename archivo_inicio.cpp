@@ -3,3 +3,12 @@
 
 #inicio
 1+10
+
+#resta
+25+30
+
+#multiplicacion
+5*15
+
+division
+5/2
