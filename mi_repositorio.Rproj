@@ -11,5 +11,8 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
-multiplicacion 
+#multiplicacion 
 5*15
+
+#SUMA
+2+2
